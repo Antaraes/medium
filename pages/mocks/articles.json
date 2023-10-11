@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Breakfast",
+    "author": "John",
+    "content": "Some content for the breakfast",
+    "category": {
+      "title": "Breakfast",
+      "url": "/categories/breakfast"
+    },
+    "image": "sfsdfd",
+    "createdAt": "2022-05-01",
+    "allowComments": true,
+    "status": "publish"
+  }
+]
